@@ -2,6 +2,7 @@
 - 👀 View my portfolio here: ⚠️ In Progress ⚠️
 - 📇 View my Linktree: https://linktr.ee/CapprecciaSwanson  
 - 🌱 I’m currently learning Front End Web Development
+- 📓 Follow my progress: https://codepen.io/cappreccia-swanson
 - 📑 Resume provided as needed
 - 💻 Message me here: https://www.linkedin.com/in/cappreccia-swanson
 - 📫 Reach me via email: capprecciaswanson@gmail.com
