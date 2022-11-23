@@ -7,7 +7,7 @@
 - 💻 Message me here: https://www.linkedin.com/in/cappreccia-swanson
 - 📫 Reach me via email: capprecciaswanson@gmail.com
 - 📲 Call me here: (706) 663-3423
-- 💞️ I’m looking to collaborate on beginner friendly projects
+- 💞️ I’m looking to collaborate on beginner-friendly projects
 
 <!---
 cappreccia-swanson/cappreccia-swanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
