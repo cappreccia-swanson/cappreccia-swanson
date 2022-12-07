@@ -9,14 +9,8 @@
 - 📌 Tweet me: @cappreccia_s
 - 📲 Call me here: (706) 663-3423
 - 👩‍💻 I’m looking to collaborate on beginner-friendly projects
+- 🏆 Team won Most Creative App at the Girl Develop It! Hackathon 2022
+- 📚 Avid learning
+- Aligning my passion for technology, good food, and fine arts with my purpose of service and stewardship.
 
-<!---
-cappreccia-swanson/cappreccia-swanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @cappreccia-swanson
-- 👀 I’m interested in astrology, music, fantasy creatures, and general knowledge
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on newbie things 
-- 📫 How to reach me: by my profile, I guess
---->
+![most creative app](https://user-images.githubusercontent.com/103009026/206321048-4a46a7c7-4ac7-477b-984a-86254cc6c8bc.png)
