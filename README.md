@@ -1,13 +1,11 @@
 - 👋 Hello World!
 - 👀 View my portfolio here: ⚠️ In Progress ⚠️
-- 📇 View my Linktree: https://linktr.ee/CapprecciaSwanson  
-- 🌱 I’m currently learning Front End Web Development
-- 📓 Follow my progress: https://codepen.io/cappreccia-swanson
-- 📑 Resume provided as needed
+- 🌱 Proven Front End Web Developer experience in HTML, CSS, JavaScript
 - 💻 Message me here: https://www.linkedin.com/in/cappreccia-swanson
 - 📫 Reach me via email: capprecciaswanson@gmail.com
-- 📌 Tweet me: @cappreccia_s
 - 📲 Call me here: (706) 663-3423
+
+
 - 👩‍💻 I’m looking to collaborate on beginner-friendly projects
 - 🏆 Team won Most Creative App at the Girl Develop It! Hackathon 2022
 - 📚 Avid learner
